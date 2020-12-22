@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>filenew.png</file>
+        <file>fileopen.png</file>
+        <file>filesave.png</file>
+        <file>filesaveas.png</file>
+        <file>find.png</file>
+        <file>help.png</file>
+        <file>zoom-in.png</file>
+        <file>anticlockwise.png</file>
+        <file>clockwise.png</file>
+        <file>close.png</file>
+        <file>flip1.png</file>
+        <file>flip2.png</file>
+        <file>right.png</file>
+        <file>wise.png</file>
+        <file>left.png</file>
+        <file>fd.png</file>
+        <file>sx.png</file>
+        <file>btn.ico</file>
+        <file>jc.png</file>
+        <file>sc.png</file>
+        <file>Toggles_24px_1194089_easyicon.net.png</file>
+        <file>file1.png</file>
+        <file>paste.png</file>
+        <file>undo.png</file>
+    </qresource>
+</RCC>
